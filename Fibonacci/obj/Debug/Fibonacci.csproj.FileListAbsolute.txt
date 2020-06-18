@@ -1,0 +1,6 @@
+D:\Telkom Schools\Pemograman Dasar\A25 PRODAS XR2\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\Telkom Schools\Pemograman Dasar\A25 PRODAS XR2\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+D:\Telkom Schools\Pemograman Dasar\A25 PRODAS XR2\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\Telkom Schools\Pemograman Dasar\A25 PRODAS XR2\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+D:\Telkom Schools\Pemograman Dasar\A25 PRODAS XR2\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+D:\Telkom Schools\Pemograman Dasar\A25 PRODAS XR2\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
